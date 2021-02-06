@@ -20,7 +20,9 @@ color: white;
 }
 body {	
   background-image: url('Horsehead-Nebula-Wallpaper-HD-18.png');
-  background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 .container {	
