@@ -1,0 +1,45 @@
+#cursor{
+          font-size: 30px;
+}
+a:link {
+  text-decoration: none;
+	color: white;
+}
+a:visited {
+  text-decoration: none;
+	color: white;
+}
+a:hover {
+  text-decoration: none;
+color: white;
+}
+a:active {
+
+  text-decoration: none;
+color: white;
+}
+body {	
+  background-image: url('Horsehead-Nebula-Wallpaper-HD-18.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {	
+        width: 100vw;
+        height: 100vh;
+        margin: 0 auto;
+        background-color: rgba(255,255,255,0.5);
+}
+.flavor {	
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-size: 20px;
+  color: white;
+}
+.footer {	
+    bottom: 0%;
+    position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.video{	
+	display: none;
+}
