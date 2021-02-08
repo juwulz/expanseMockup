@@ -1,40 +1,40 @@
 #cursor{
-          font-size: 30px;
+    font-size: 30px;
 }
 a:link {
-  text-decoration: none;
+	text-decoration: none;
 	color: white;
 }
 a:visited {
-  text-decoration: none;
+	text-decoration: none;
 	color: white;
 }
 a:hover {
-  text-decoration: none;
-color: white;
+	text-decoration: none;
+	color: white;
 }
 a:active {
 
-  text-decoration: none;
-color: white;
+	text-decoration: none;
+	color: white;
 }
 body {	
-  background-image: url('Horsehead-Nebula-Wallpaper-HD-18.png');
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background-image: url('245332.png');
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
 }
 .container {	
-        width: 100vw;
-        height: 100vh;
-        margin: 0 auto;
-        background-color: rgba(255,255,255,0.5);
+	background: url("expanseAsset 3.png") no-repeat center;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	height: auto;
+    width: auto;
+	z-index: -1;
 }
 .flavor {	
-  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  font-size: 20px;
-  color: white;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 20px;
+	color: white;
 }
 .footer {	
     bottom: 0%;
